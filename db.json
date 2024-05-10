@@ -1,0 +1,32 @@
+{
+    "gryPlanszowe": [
+        {
+            "nazwa": "Uno",
+            "minWiek": 6,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 10,
+            "czasGrania": 30
+        },
+        {
+            "nazwa": "Twister",
+            "minWiek": 5,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 4,
+            "czasGrania": 40
+        },
+        {
+            "nazwa": "Dobble",
+            "minWiek": 6,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 8,
+            "czasGrania": 10
+        },
+        {
+            "nazwa": "Superfarmer",
+            "minWiek": 6,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 4,
+            "czasGrania": 35
+        }
+    ]
+}
